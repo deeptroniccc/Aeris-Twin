@@ -6,9 +6,9 @@ AERIS-TWIN is an AI-enabled Digital Twin platform designed for UAV piston-engine
 
 ## 🔗 Links
 
-- [Live Demo](https://aeris-twin-1.onrender.com/gcs)
+- [Live Demo] (https://aeris-twin-1.onrender.com/gcs)
 - [Project Website](https://aeris-twin-1.onrender.com)
-- 
+  
 > **Development status:** Simulation-driven prototype. Real-engine validation and hardware integration are future development stages.
 
 ## Overview
