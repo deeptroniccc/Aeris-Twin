@@ -4,6 +4,11 @@
 
 AERIS-TWIN is an AI-enabled Digital Twin platform designed for UAV piston-engine health monitoring, fault detection, and mission-aware decision support. It combines engine simulation, synthetic telemetry, ML-based analytics, and a web-based Ground Control System to visualize engine health and simulated UAV missions.
 
+## 🔗 Links
+
+- [Live Demo](https://aeris-twin-1.onrender.com/gcs)
+- [Project Website](https://aeris-twin-1.onrender.com)
+- 
 > **Development status:** Simulation-driven prototype. Real-engine validation and hardware integration are future development stages.
 
 ## Overview
